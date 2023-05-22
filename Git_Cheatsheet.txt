@@ -1,0 +1,13 @@
+git config --global user.name “[Nombre y apellido]” - Configura el nombre con el cual se guardaran las versiones.
+git config --global user.email “[email válido]” - Configura el correo eléctronico asociado a cada cambio.
+git init - inicializa un directorio existente como un repositorio de Git.
+git clone [url] - Extrae un repositorio desde una ubicación remota via url
+git status - Muestra los arachivos modificados en el directorio de trabajo, preparados para el próximo commit.
+git add [nombre de archivo] - Añade un archivo local al siguiente commit 
+git reset [nombre de archivo] - Remueve un archivo del commit.
+git commit -m “[mensage]” - Hace un commit con los archivos preparados.
+git push [alias] [rama] - Sube los cambios locales al repositorio remoto.
+git pull - Trae y combina los commits del repositorio remoto.
+git branch - Muestra las ramas disponibles.
+git branch [nombre de la rama] - Crea una rama nueva con ese nombre.
+git checkout [nombre de la rama] - Cambia a otra rama.git merge [nombre de la rama] - Combina las dos ramas.
