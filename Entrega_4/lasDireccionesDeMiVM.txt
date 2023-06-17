@@ -1,0 +1,5 @@
+IP privada: 10.0.2.15
+Dirección MA; 0008:00:27:ea:8c:70
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+L IP pública es la misma, la IP privada es diferente
