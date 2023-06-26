@@ -1,0 +1,20 @@
+TELNET
+
+Ventajas:
+- Acceso ilimitado a los recursos de las máquinas a compartir.
+- Puede usarse en todas las plataformas o sistemas operativos.
+
+Desventajas:
+- No cuenta con mucha seguridad y se debe tener presente a que equipo nos conectaremos.
+- No permite el ingreso a todos los servidores.
+
+SSH
+
+Ventajas:
+- La seguridad en la transferencia entre cliente y servidor.
+- Permite ejecutar comandos de shell en una computadora remota.
+
+DIFERENCIAS ENTRE TELNET Y SSH
+- SSH proporciona autenticación con contraseña.
+- Le transferencia de archivos está protegida contra escuchas con SSH.
+- SSH cifra el tráfico en ambas direcciones.
